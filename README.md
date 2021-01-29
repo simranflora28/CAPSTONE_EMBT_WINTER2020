@@ -5,4 +5,12 @@ The contributors to this repository: Simran,Amandeep Singh, Gurpreet Singh, Kira
 
 This Capstone Project is being guided under the supervision of Dr.Mike Aleshams
 
+Hardware Skills: Exploring BB; Exploring Arduino Uno; Interfacing using UART, SPI, I2C;
+
+Operating System: LINUX, Windows
+
+Software Skills: HTML,VHDL,ECLIPSE,MCUxpresso,QT CREATOR
+
+Programming Language: C, C++
+
 We are very excited to work on the Capstone Project
