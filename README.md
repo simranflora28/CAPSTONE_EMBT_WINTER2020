@@ -39,29 +39,6 @@ SD card: To Flash Beaglebone with latest Debian image SD card can be used.
 Resistor/Capacitor Kit: It consists of different types of resistors and capacitors used in the project.
 Power Supply: 9V is required to Power Up GSM Module and 5V to power up Beagle bone without Laptop.
 
-Hardware requirements:
-•	Beagle Bone Black
-•	Touch screen
-•	Fingerprint sensor 
-•	Vibrator Sensor 
-•	Power Supply 5V for BBB
-•	ESP32 Camera module.
-•	ESP8266 Module
-•	GSM Module
-•	Power Supply for GSM
-•	Servo motor
-•	Buzzer
-•	SD card for Flashing of BBB
-•	 Laptop
-•	Jumper Wires
-•	Multimeter
-•	Soldering Kit
-•	Breadboard
-•	USB Cables
-•	5V and 12V Power adapter
-•	Real Time Clock
-•	Arduino Mega
-
 Testing Hardware Component:Testing of hardware components is done mainly by the arduino board using arduino IDE. we test servo motor, vibrator sensor, Beaglebone Black, Arduino Mega and GSM. 
 For BBB: we login in to debian and test few command to show its working properly.
 For Arduino Mega: we test the example code using arduino ide to show its working.
