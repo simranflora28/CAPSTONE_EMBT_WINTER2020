@@ -45,3 +45,8 @@ For Arduino Mega: we test the example code using arduino ide to show its working
 For GSM testing: we test GSm testing with arduino uno, for GSM testing we are making a call through the sim we inserted in the GSM module.
 For Servo motor: we test the servo motor using arduino uno.
 For Vibrator Sensor: we test the Vibfrator sensor using arduino uno.
+For Buzzer: we test the Buzzer using arduino uno.
+For RTC: We test the RTC DS3231 that determines the real time using the arduino uno.
+For TouchScreen: we are using 3.5" TFT screen in our projectc and we test it using ardduino uno.
+For Fingerprint Sensor: R307 is the fingerprint sensor we are using in this project and test it with arduino uno.
+For ESP32 CAM: we test using the TTL FTDI cable.
