@@ -49,4 +49,6 @@ For Buzzer: we test the Buzzer using arduino uno.
 For RTC: We test the RTC DS3231 that determines the real time using the arduino uno.
 For TouchScreen: we are using 3.5" TFT screen in our projectc and we test it using ardduino uno.
 For Fingerprint Sensor: R307 is the fingerprint sensor we are using in this project and test it with arduino uno.
-For ESP32 CAM: we test using the TTL FTDI cable.
+For ESP32 CAM: we test ESP32CAM with the help of ESP8266 and check that the camera is working properly.
+
+SCHEMATIC Design: As per proposed in the project proposal, we use the EASYEDA online software, to design schematic and explore many new things while using it.
